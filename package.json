@@ -16,12 +16,12 @@
 		{
 			"name" 			: "Forefront Unit Test",
 			"file_name"		: "Forefront-UnitTestApexClass.cls",
-			"description" 	: "The default Forefront template for an Apex Class",
+			"description" 	: "The default Forefront template for an Apex Unit Test",
 			"author" 		: "Carl Weiss",
 			"params" 		: [ 
 		        {   
 		            "name"          : "api_name",
-		            "description"   : "Apex Class API Name",
+		            "description"   : "Apex Unit Test Class API Name",
 		            "default" 		: "MyApexClass_TEST"
 		        }
 		   ]
