@@ -16,7 +16,7 @@
     
     CHANGE LOG
         [[Version; Date; Author; Description]]
-        v0.1; 2014/06/02; {{author}}/Forefront; Initial Build
+        v0.1; 2014/06/02; /Forefront; Initial Build
 ***************************************************************************************/
 public with sharing class {{ api_name }} {
 	public {{ api_name }}() {
