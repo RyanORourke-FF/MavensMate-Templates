@@ -1,4 +1,7 @@
 /**
+  * @author User /Forefront
+  * @version 1.0
+  * 
   * <b> PURPOSE </b>
   * <p>
   *        Some Detailed Purpose of the Class, what it does and why. <p>
@@ -19,9 +22,6 @@
   *    [[Version; Date; Author; Description]]<p>
   *     v1.0; Date;  User / Forefront; Initial Build<p>
   * <p>
-  * @author User /Forefront
-  * @version 1.0
-  * 
   **/
 public with sharing class {{ api_name }} {
 	public {{ api_name }}() {
