@@ -8,16 +8,16 @@
   *        Helpful hints for the next developer.<p>
   *        Business logic or use cases can be used.<p>
   * <p>
-  * <b>TEST CLASS </b>
+  * <b> TEST CLASS </b>
   * <p>
   *     Name of the test class<p>
   *     For Naming use the class MyApexClass_TEST<p>
   *  <p>
-  *  <b>ENTRY POINTS</b>
+  *  <b> ENTRY POINTS </b>
   *  <p>
   *     How is this code called, if a VF controller which page calls it.  <p>
   * <p>
-  * <b>CHANGE LOG</b>
+  * <b> CHANGE LOG </b>
   * <p>
   *    [[Version; Date; Author; Description]]<p>
   *     v1.0; Date;  User / Forefront; Initial Build<p>
