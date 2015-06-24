@@ -5,14 +5,7 @@
   *
   * PURPOSE
   * 
-  *    Some Detailed Purpose of the Class, what it does and why. 
-  *    Helpful hints for the next developer.
-  *    Business logic or use cases can be used.
-  * 
-  * TEST CLASS 
-  * 
-  *    Name of the test class
-  *    For Naming use the class {{ api_name }}_TEST
+  *    Provide test coverate for {{api_name}}
   *  
   * ENTRY POINTS 
   *  
