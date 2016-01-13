@@ -1,4 +1,7 @@
 /**
+  * Copyright (c) 2016 ForeFront, Inc. All Rights Reserved.
+  * Subject to ForeFront, Inc. licensing.
+  *
   * @author UserName/Forefront
   * @version 1.0
   * @description
