@@ -8,7 +8,7 @@
   *
   * PURPOSE
   * 
-  *    Provide test coverate for {{api_name}}
+  *    Provide test coverage for {{api_name}}
   *  
   * ENTRY POINTS 
   *  
