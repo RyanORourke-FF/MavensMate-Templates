@@ -16,7 +16,7 @@
 	*
 	*	 Boolean wasAfterUpdate will be changed to true in the handleAfterUpdate method, default is false.
 	*	 Method clearFlags will reset wasAfterUpdate to false and reset count for future checks.
-	*	 Method handleAfterUpdate will check for recursion, incrememnts count by 1.
+	*	 Method handleAfterUpdate will check for recursion, increments count by 1.
 	* 
 	* TEST CLASS 
 	* 
@@ -62,7 +62,7 @@ public without sharing class {{ api_name }} {
 		}
 	}
 
-	public static void handleAfterUpdateMap(Map<Id, {{ object_name }}> oldMap, Map<Id, {{ object_name }}> newMap){
+	public static void handleAfterUpdate(Map<Id, {{ object_name }}> oldMap, Map<Id, {{ object_name }}> newMap){
 		//Recursive trigger execution check
 		if(wasAfterUpdate)
 		{
